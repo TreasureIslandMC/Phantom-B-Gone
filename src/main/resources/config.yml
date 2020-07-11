@@ -1,0 +1,11 @@
+warning-messages:
+  - "Its time to sleep because the phantoms will come out soon"
+  - "Sleepy times %player_name% %sleep_days%"
+  - "The Phantoms are coming RUN!"
+  - "Run the phantoms are here"
+late-nights:
+  - "Run the phantoms are here"
+  - "Panic!"
+sleep-message: "The phantoms are gone."
+reset-time: 1
+bed-delay: 20

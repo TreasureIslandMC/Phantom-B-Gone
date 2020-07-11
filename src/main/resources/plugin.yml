@@ -1,0 +1,9 @@
+name: Phantom-B-Gone
+version: ${project.version}
+authors: ["Scott Harwood","TreasureIslandMC"]
+main: scott.harwood.sleep.resetter.SleepResetter
+depend: [PlaceholderAPI]
+api-version: "1.13"
+commands:
+  sleep-reload:
+    permission: phantombgone.reload
